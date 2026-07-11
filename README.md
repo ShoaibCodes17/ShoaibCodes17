@@ -34,7 +34,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0d1117&cache_seconds=0)](https://github.com/ShoaibCodes17/Housing-price-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0d1117&show_owner=true)](https://github.com/ShoaibCodes17/Housing-price-prediction)
 
 </div>
 
