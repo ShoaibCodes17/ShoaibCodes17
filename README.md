@@ -69,7 +69,9 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 **Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,PowerBI,vscode&theme=dark)
+
+
 
 
 ## 🤝 Connect With Me
