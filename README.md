@@ -61,6 +61,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Webscrapping](https://img.shields.io/badge/Webscrapping-FF6F00?style=for-the-badge&logo=Webscrapping&logoColor=white)
 
 
 **Backend & Infra**
