@@ -48,7 +48,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 **Languages**
 
