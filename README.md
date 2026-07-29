@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20|%20ML%20Enthusiast">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...]" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python+Developer;Passionate+about+Data+Science">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Py[...]
+" />
 </a>
 
 <br/>
@@ -22,7 +23,7 @@
 
 I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
 
-I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and building scalable solutions.
+I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and [...]
 
 </div>
 
@@ -34,7 +35,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&bg_color=0d1117&show_owner=true)](https://github.com/ShoaibCodes17/Housing-price-prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=[...]
 
 </div>
 
@@ -45,6 +46,42 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 | **Data Handling** | SQL / MySQL |
 
 **🔗 Code:** [github.com/ShoaibCodes17/Housing-price-prediction](https://github.com/ShoaibCodes17/Housing-price-prediction)
+
+<br/>
+
+### Tower of Hanoi
+
+<div align="left">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=tower-of-hanoi&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF)]
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| **Language** | Python |
+| **Concepts** | Recursion / Algorithms |
+| **Learning Focus** | Problem-solving, visualization |
+
+**🔗 Code:** [github.com/ShoaibCodes17/tower-of-hanoi](https://github.com/ShoaibCodes17/tower-of-hanoi)
+
+<br/>
+
+### RAG based AI Chat Assistant
+
+<div align="left">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=rag-based-ai-chat-assistant&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF)]
+
+</div>
+
+| Layer | Technology |
+|---|---|
+| **Language** | Python |
+| **Core** | Retrieval-Augmented Generation (RAG) |
+| **Infra** | Vector DB / Transformers / APIs |
+
+**🔗 Code:** [github.com/ShoaibCodes17/rag-based-ai-chat-assistant](https://github.com/ShoaibCodes17/rag-based-ai-chat-assistant)
 
 <br/>
 
@@ -71,7 +108,6 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 **Dev Tools**
 
 ![Skills](https://skillicons.dev/icons?i=git,github,PowerBI,vscode&theme=dark)
-
 
 
 
