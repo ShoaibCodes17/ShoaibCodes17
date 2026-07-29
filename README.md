@@ -35,7 +35,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=[...]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=[...])]
 
 </div>
 
@@ -85,7 +85,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <br/>
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 **Languages**
 
