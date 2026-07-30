@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...]" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Py[...]
-" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python+%7C+Machine+Learning+%7C+RAG+%7C+Data+Science" />
 </a>
 
 <br/>
@@ -23,7 +22,7 @@
 
 I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
 
-I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and [...]
+I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and learning new tools and techniques.
 
 </div>
 
@@ -35,7 +34,9 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=Housing-price-prediction&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=[...])]
+[![Repo](https://img.shields.io/badge/Repo-Housing--price--prediction-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/Housing-price-prediction)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
 
@@ -53,7 +54,8 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=tower-of-hanoi&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF)]
+[![Repo](https://img.shields.io/badge/Repo-tower--of--hanoi-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/tower-of-hanoi)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
@@ -71,7 +73,9 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <div align="left">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShoaibCodes17&repo=rag-based-ai-chat-assistant&theme=nord&border_color=58A6FF&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF)]
+[![Repo](https://img.shields.io/badge/Repo-rag--based--ai--chat--assistant-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/rag-based-ai-chat-assistant)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FEA93B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
 
 </div>
 
@@ -98,7 +102,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Webscrapping](https://img.shields.io/badge/Webscrapping-FF6F00?style=for-the-badge&logo=Webscrapping&logoColor=white)
+![Webscrapping](https://img.shields.io/badge/Webscrapping-FF6F00?style=for-the-badge&logo=webscraper&logoColor=white)
 
 
 **Backend & Infra**
