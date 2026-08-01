@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Sci[...] 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Py[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Py[...]
 </a>
 
 <br/>
@@ -32,14 +32,6 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 ### <img src="./assets/house%20price.png" alt="house-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> AI-Based Real Estate Pricing Engine
 
-<div align="left">
-
-[![Repo](https://img.shields.io/badge/Repo-Housing--price--prediction-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/Housing-price-prediction)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-</div>
-
 | Layer | Technology |
 |---|---|
 | **Language** | Python |
@@ -52,13 +44,6 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 ### <img src="./assets/tower%20of%20hanoi.png" alt="tower-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Tower of Hanoi
 
-<div align="left">
-
-[![Repo](https://img.shields.io/badge/Repo-tower--of--hanoi-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/tower-of-hanoi)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-</div>
-
 | Layer | Technology |
 |---|---|
 | **Language** | Python |
@@ -70,14 +55,6 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 <br/>
 
 ### <img src="./assets/rag.png" alt="rag-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> RAG based AI Chat Assistant
-
-<div align="left">
-
-[![Repo](https://img.shields.io/badge/Repo-rag--based--ai--chat--assistant-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShoaibCodes17/rag-based-ai-chat-assistant)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FEA93B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/)
-
-</div>
 
 | Layer | Technology |
 |---|---|
