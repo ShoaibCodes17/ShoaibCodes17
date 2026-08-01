@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Sci[...] 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python+%7C+Machine+Learning+%7C+RAG+%7C+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Py[...]
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
 
-I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and learning new tools and techniques.
+I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and lear[...]
 
 </div>
 
@@ -30,7 +30,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 ## 🚀 Featured Projects
 
-### AI-Based Real Estate Pricing Engine
+### <img src="./assets/house%20price.png" alt="house-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> AI-Based Real Estate Pricing Engine
 
 <div align="left">
 
@@ -50,7 +50,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <br/>
 
-### Tower of Hanoi
+### <img src="./assets/tower%20of%20hanoi.png" alt="tower-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Tower of Hanoi
 
 <div align="left">
 
@@ -69,7 +69,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 <br/>
 
-### RAG based AI Chat Assistant
+### <img src="./assets/rag.png" alt="rag-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> RAG based AI Chat Assistant
 
 <div align="left">
 
