@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20AI%20Explorer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Analyst)
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python%20Developer;Data%20Analysis%20Enthusiast;Generative%20AI%20Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python%20Developer;Data%20Analysis%20;Generative%20AI%20Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -100,7 +100,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 **Dev Tools**
 
-![Skills](https://skillicons.dev/icons?i=git,github,powerbi,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
 
 
