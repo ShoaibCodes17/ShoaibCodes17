@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...])
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Enthusiast%20%7C%20AI%20Explorer)
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python%20Developer;Data%20Analysis%20Enthusiast;Generative%20AI%20Explorer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
 
-I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and lear[...]
+I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and learning continuously.
 
 </div>
 
