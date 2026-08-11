@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Sci[...])
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...]
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
@@ -63,6 +63,18 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 | **Infra** | Vector DB / Transformers / APIs |
 
 **🔗 Code:** [github.com/ShoaibCodes17/rag-based-ai-chat-assistant](https://github.com/ShoaibCodes17/rag-based-ai-chat-assistant)
+
+<br/>
+
+### ✈️ British Airways booking completion prediction
+
+| Layer | Technology |
+|---|---|
+| **Language** | Python |
+| **Modeling** | Machine Learning (Classification — Random classifier) |
+| **Data Handling** | pandas / CSV |
+
+**🔗 Code:** [github.com/ShoaibCodes17/British-Airways-booking-completion-project](https://github.com/ShoaibCodes17/British-Airways-booking-completion-project)
 
 <br/>
 
