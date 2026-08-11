@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Sci[...] 
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Sci[...])
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
@@ -70,7 +70,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=py&theme=dark)
+![Skills](https://skillicons.dev/icons?i=py,mysql&theme=dark)
 
 **Libraries & Frameworks**
 
@@ -84,7 +84,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 **Backend & Infra**
 
-![Skills](https://skillicons.dev/icons?i=flask,mysql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=dark)
 
 **Dev Tools**
 
