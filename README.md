@@ -102,7 +102,8 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 **Dev Tools**
 
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
-
+<img src="./assets/icons8-power-bi-2021-48.png" alt="PowerBI-icon" width="60" height="80" style="vertical-align:middle;margin-right:8px"/>
+<img src="./assets/icons8-microsoft-excel-2025-48.png" alt="Excel-icon" width="60" height="80" style="vertical-align:middle;margin-right:8px"/>
 
 
 ## 🤝 Connect With Me
