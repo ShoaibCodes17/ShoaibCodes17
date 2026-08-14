@@ -83,7 +83,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 **Languages**
 
 ![Skills](https://skillicons.dev/icons?i=py,mysql&theme=dark)
-<img src="./assets/icons8-sql-48.png" alt="rag-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/>
+<img src="./assets/icons8-sql-48.png" alt="rag-icon" width="60" height="80" style="vertical-align:middle;margin-right:8px"/>
 
 **Libraries & Frameworks**
 
