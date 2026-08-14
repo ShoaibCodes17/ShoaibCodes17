@@ -20,7 +20,7 @@
 
 **👋 Hi, I'm Mohammed Shoaib**
 
-I'm an aspiring Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
+I'm a Data Scientist passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning, Statistics, and Generative AI.
 
 I enjoy solving real-world problems through data, from exploratory data analysis and predictive modeling to developing AI-powered applications. My focus is on writing clean, reproducible code and learning continuously.
 
