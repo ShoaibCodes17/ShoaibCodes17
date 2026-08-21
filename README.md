@@ -4,6 +4,7 @@
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
+  
 </a>
 
 <br/>
@@ -30,7 +31,7 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 ## 🚀 Featured Projects
 
-### <img src="./assets/retention.png" alt="retention-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Retention Intelligence System
+### <img src="./assets/icon-representing-customer-retention-strategies-352798329.png" alt="retention-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Retention Intelligence System
 
 | Layer | Technology |
 |---|---|
