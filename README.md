@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...]
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...])
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
@@ -30,13 +30,26 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 
 ## 🚀 Featured Projects
 
+### <img src="./assets/retention.png" alt="retention-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Retention Intelligence System
+
+| Layer | Technology |
+|---|---|
+| **Language** | Python |
+| **Modeling** | Churn Prediction / Retention strategy |
+| **Data Handling** | SQL / pandas / Feature Store |
+| **Infra** | Agentic AI / Flask API / Docker |
+
+**🔗 Code:** [github.com/ShoaibCodes17/retention-intelligence-system](https://github.com/ShoaibCodes17/retention-intelligence-system)
+
+<br/>
+
 ### <img src="./assets/house%20price.png" alt="house-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> AI-Based Real Estate Pricing Engine
 
 | Layer | Technology |
 |---|---|
 | **Language** | Python |
 | **Modeling** | Machine Learning (Regression) |
-| **Data Handling** | SQL / MySQL |
+| **Data Handling** | pandas / MySQL |
 
 **🔗 Code:** [github.com/ShoaibCodes17/Housing-price-prediction](https://github.com/ShoaibCodes17/Housing-price-prediction)
 
@@ -75,19 +88,6 @@ I enjoy solving real-world problems through data, from exploratory data analysis
 | **Data Handling** | pandas / CSV |
 
 **🔗 Code:** [github.com/ShoaibCodes17/British-Airways-booking-completion-project](https://github.com/ShoaibCodes17/British-Airways-booking-completion-project)
-
-<br/>
-
-### <img src="./assets/retention.png" alt="retention-icon" width="22" height="22" style="vertical-align:middle;margin-right:8px"/> Retention Intelligence System
-
-| Layer | Technology |
-|---|---|
-| **Language** | Python |
-| **Modeling** | Churn Prediction / Survival Analysis / Cohort Modeling |
-| **Data Handling** | SQL / pandas / Feature Store |
-| **Infra** | Airflow / MLflow / Docker / AWS |
-
-**🔗 Code:** [github.com/ShoaibCodes17/retention-intelligence-system](https://github.com/ShoaibCodes17/retention-intelligence-system)
 
 <br/>
 
