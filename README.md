@@ -1,10 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20[...])
+![header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=220&section=header&text=Mohammed%20Shoaib&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer)
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Pyth[...]
-  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+ML+models+that+solve+real+problems;Python+%7C+Data+Science+%7C+Generative+AI;Let's+transform+data+into+insights" alt="Typing SVG" />
 </a>
 
 <br/>
